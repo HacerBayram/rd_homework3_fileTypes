@@ -1,0 +1,15 @@
+{
+  "Employee": {
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Age": 30,
+    "Department": "Human Resources",
+    "Email": "john.doe@example.com",
+    "Phone": "+1-800-555-1234",
+    "Address": {
+      "Street": "123 Main St",
+      "City": "Springfield",
+      "Country": "USA"
+    }
+  }
+}
