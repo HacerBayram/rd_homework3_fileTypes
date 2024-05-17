@@ -1,10 +1,10 @@
-First Name: John
-Last Name: Doe
-Age: 30
-Department: Human Resources
-Email: john.doe@example.com
-Phone: +1-800-555-1234
-Address:
-      Street: 123 Main St
-      City: Springfield
-      Country: USA
+(String) First Name : John
+(String) Last Name: Doe
+(Integer) Age: 30
+(String) Department: Human Resources
+(String) Email: john.doe@example.com
+(String) Phone: +1-800-555-1234
+(Object) Address:
+      (String) Street: 123 Main St
+      (String) City: Springfield
+      (String) Country: USA
