@@ -1,0 +1,13 @@
+<Employee>
+    <FirstName>John</FirstName>
+    <LastName>Doe</LastName>
+    <Age>30</Age>
+    <Department>Human Resources</Department>
+    <Email>john.doe@example.com</Email>
+    <Phone>+1-800-555-1234</Phone>
+    <Address>
+        <Street>123 Main St</Street>
+        <City>Springfield</City>
+        <Country>USA</Country>
+    </Address>
+</Employee>
